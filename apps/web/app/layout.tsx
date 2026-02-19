@@ -19,6 +19,7 @@ export default function RootLayout({
           <nav style={{ display: 'flex', gap: '12px' }}>
             <Link href="/">Home</Link>
             <Link href="/projects">Projects</Link>
+            <Link href="/projects/focusflow">FocusFlow</Link>
             <Link href="/about">About</Link>
             <Link href="/contact">Contact</Link>
           </nav>
